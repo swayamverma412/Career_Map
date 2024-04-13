@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335347387029",
+    "firebase_url": "https://careemap-a3f26-default-rtdb.firebaseio.com",
+    "project_id": "careemap-a3f26",
+    "storage_bucket": "careemap-a3f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335347387029:android:b7396dd85c0981a428a99c",
+        "android_client_info": {
+          "package_name": "com.example.career_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335347387029-kvmsd5b0kcsn8d02bojedsr6tqhmaqeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ppb3NK78KmROr3N15WdnFP39VYonE7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335347387029-0l8fe0e8bp25205k2qkvvihnbrsskc4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
