@@ -1,6 +1,6 @@
-# career_map
+# career map
 
-A new Flutter project.
+Career Map is a comprehensive app designed to consolidate all career-related information, including school studies and competitive exam preparation. It provides a unified platform for users to navigate their career paths with ease
 
 ## Getting Started
 
